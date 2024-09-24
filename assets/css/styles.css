@@ -706,12 +706,7 @@ html {
 }
 .site-footer a
 {
-  color:#737373;
-}
-.site-footer a:hover
-{
-  color: black;
-  text-decoration:none;
+  color:black;
 }
 .copyright-text
 {
